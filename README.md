@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/c06f4b4fafe118c71b68b.jpg" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://te.legra.ph/file/80d163ad0a9f483af479d.jpg" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls 
@@ -10,7 +10,7 @@
     <a href="https://t.me/YukkiSupport"> Support Chat </a> 
 </p>
     
-# Ehsaas Music Bot
+# Aujla Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, video and even live streams in your group calls via various sources. It comes with a user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -86,9 +86,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki")
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/Punjabi_Status_Mania")
+- [Telegram Support Group](https://t.me/World_Punjabi_Chat_Group)
+- [Contact Owner](https://t.me/PB_65_Aujla)
 
 
 ## License
