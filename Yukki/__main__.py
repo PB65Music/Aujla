@@ -231,7 +231,7 @@ async def initiate_bot():
 
 home_text_pm = f"""𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙈 𝘼𝙉 𝘼𝘿𝙑𝘼𝙉𝘾𝙀𝘿 𝙎𝙐𝙋𝙀𝙍𝙁𝘼𝙎𝙏
 𝙃𝙄𝙂𝙃 𝙌𝙐𝘼𝙇𝙄𝙏𝙔 𝙑𝘾 𝙈𝙐𝙎𝙄𝘾 𝙋𝙇𝘼𝙔𝙀𝙍.
-✅ 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 :- <a href=\"https://t.me/Army0071\">🇮🇳 ᴀʀᴍy 🇮🇳</a>"""
+✅ 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 :- <a href=\"https://t.me/PB_65_Aujla\">🇮🇳 🅐𝖚𝖏𝖑𝖆 🇮🇳</a>"""
 
 
 @app.on_message(filters.command("help") & filters.private)
@@ -370,7 +370,7 @@ async def start_command(_, message):
 
                 ],
 
-                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Commands-01-10-2")],
+                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/%F0%9D%96%9A%F0%9D%96%8F%F0%9D%96%91%F0%9D%96%86-%F0%9D%95%B8%F0%9D%96%9A%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%88-04-01")],
 
                 
 
@@ -384,13 +384,13 @@ async def start_command(_, message):
 
                     InlineKeyboardButton(
 
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting_group"
+                        "❤️𝔾ℝ𝕆𝕌ℙ🤍", url=f"https://t.me/World_Punjabi_Chat_Group"
 
                     ),
 
                     InlineKeyboardButton(
 
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/ARMY0071"
+                        "🇮🇳🅾🆆🅽🅴🆁🌾", url=f"https://t.me/PB_65_Aujla"
 
                     ),
 
@@ -490,13 +490,13 @@ All commands can be used with: /
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Commands-01-10-2")],
+                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/%F0%9D%96%9A%F0%9D%96%8F%F0%9D%96%91%F0%9D%96%86-%F0%9D%95%B8%F0%9D%96%9A%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%88-04-01")],
                 [
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting_group"
+                        "❤️🅐𝖚𝖏𝖑𝖆 Chat🌾", url=f"https://t.me/World_Punjabi_Chat_Group"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/ARMY0071"
+                        "🎬🅢🅣🅐🅣🅤🅢🎥", url=f"https://t.me/Punjabi_Status_Mania"
                     ),
                 ],
                 
