@@ -9,23 +9,23 @@ def url_markup(videoid, duration, user_id, query, query_type):
         [
             
             InlineKeyboardButton(
-                text="❰𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮❱",
+                text="🎵𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮🎶",
                 callback_data=f"MusicStream {videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="❰𝙑𝙞𝙙𝙚𝙤 𝙋𝙡𝙖𝙮❱",
+                text="🎬𝙑𝙞𝙙𝙚𝙤 𝙋𝙡𝙖𝙮🎥",
                 callback_data=f"Choose {videoid}|{duration}|{user_id}",
             ),
             
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙂𝙧𝙤𝙪𝙥❱",
-                url=f"https://t.me/World_friends_chatting_group",
+                text="❤️🅐𝖚𝖏𝖑𝖆 Chat🌾",
+                url=f"https://t.me/World_Punjabi_Chat_Group",
             ),
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱",
-                url=f"https://t.me/ARMY0071",
+                text="🇮🇳🅾🆆🅽🅴🆁🌾",
+                url=f"https://t.me/PB_65_Aujla",
             ),
         ],
     ]
@@ -36,17 +36,17 @@ def url_markup2(videoid, duration, user_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="❰𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮❱",
+                text="🎵𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮🎶",
                 callback_data=f"MusicStream {videoid}|{duration}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="❰𝙑𝙞𝙙𝙚𝙤 𝙋𝙡𝙖𝙮❱",
+                text="🎬𝙑𝙞𝙙𝙚𝙤 𝙋𝙡𝙖𝙮🎥",
                 callback_data=f"Choose {videoid}|{duration}|{user_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰🗑 𝗖𝗹𝗼𝘀𝗲❱",
+                text="🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷",
                 callback_data=f"forceclose {videoid}|{user_id}",
             )
         ],
@@ -93,7 +93,7 @@ def search_markup(
                 text="<", callback_data=f"popat 1|{query}|{user_id}"
             ),
             InlineKeyboardButton(
-                text="❰🗑 𝗖𝗹𝗼𝘀𝗲❱", callback_data=f"forceclose {query}|{user_id}"
+                text="🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷", callback_data=f"forceclose {query}|{user_id}"
             ),
             InlineKeyboardButton(
                 text=">", callback_data=f"popat 1|{query}|{user_id}"
@@ -147,7 +147,7 @@ def search_markup2(
                 text="<", callback_data=f"popat 2|{query}|{user_id}"
             ),
             InlineKeyboardButton(
-                text="❰🗑 𝗖𝗹𝗼𝘀𝗲❱", callback_data=f"forceclose {query}|{user_id}"
+                text="🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷", callback_data=f"forceclose {query}|{user_id}"
             ),
             InlineKeyboardButton(
                 text=">", callback_data=f"popat 2|{query}|{user_id}"
@@ -161,9 +161,9 @@ def secondary_markup(videoid, user_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/ARMY0071"
+                text="🎬🅢🅣🅐🅣🅤🅢🎥", url=f"https://t.me/Punjabi_Status_Mania"
             ),
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/World_friends_chatting_group"),
+            InlineKeyboardButton(text="❤️𝔾ℝ𝕆𝕌ℙ🤍", url=f"https://t.me/World_Punjabi_Chat_Group"),
         ],
     ]
     return buttons
@@ -172,7 +172,7 @@ def secondary_markup(videoid, user_id):
 def secondary_markup2(videoid, user_id):
     buttons = [
         [
-            InlineKeyboardButton(text="❰🗑 𝗖𝗹𝗼𝘀𝗲❱", callback_data=f"close"),
+            InlineKeyboardButton(text="🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷", callback_data=f"close"),
         ],
     ]
     return buttons
@@ -185,9 +185,9 @@ def primary_markup(videoid, user_id, current_time, total_time):
     buttons = [
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/ARMY0071"
+                text="🇮🇳🅾🆆🅽🅴🆁🌾", url=f"https://t.me/PB_65_Aujla"
             ),
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/World_friends_chatting_group"),
+            InlineKeyboardButton(text="❤️𝔾ℝ𝕆𝕌ℙ🤍", url=f"https://t.me/World_Punjabi_Chat_Group"),
         ],
     ]
     return buttons
@@ -197,9 +197,9 @@ def timer_markup(videoid, user_id, current_time, total_time):
     buttons = [
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/ARMY0071"
+                text="🎬🅢🅣🅐🅣🅤🅢🎥", url=f"https://t.me/Punjabi_Status_Mania"
             ),
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/World_friends_chatting_group"),
+            InlineKeyboardButton(text="❤️𝔾ℝ𝕆𝕌ℙ🤍", url=f"https://t.me/World_Punjabi_Chat_Group"),
         ],
     ]
     return buttons
@@ -210,20 +210,20 @@ def audio_markup(videoid, user_id, current_time, total_time):
         db_mem[videoid] = {}
     db_mem[videoid]["check"] = 2
     buttons = [
-        [InlineKeyboardButton(text="❰🗑 𝗖𝗹𝗼𝘀𝗲❱", callback_data=f"close")],
+        [InlineKeyboardButton(text="🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷", callback_data=f"close")],
     ]
     return buttons
 
 
 def audio_timer_markup_start(videoid, user_id, current_time, total_time):
     buttons = [
-        [InlineKeyboardButton(text="❰🗑 𝗖𝗹𝗼𝘀𝗲❱", callback_data=f"close")],
+        [InlineKeyboardButton(text="🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷", callback_data=f"close")],
     ]
     return buttons
 
 
 audio_markup2 = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton("❰🗑 𝗖𝗹𝗼𝘀𝗲❱", callback_data="close")],
+        [InlineKeyboardButton("🥀🗑 𝗖𝗹𝗼𝘀𝗲🎷", callback_data="close")],
     ]
 )
